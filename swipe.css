@@ -1,16 +1,16 @@
 /* Skin Menu JTS */
 .overlayer{background: 	rgba(0, 0, 0, .35) !important;}
-.default-theme .my-codehim li a:hover{   background: #F65314;   color: #fff;}
+.default-theme .my-codehim li a:hover{   background: #1ECB3B;   color: #fff;}
 .default-theme .splash{background: #fff;}
-.default-theme {background: #7CBB00;}
+.default-theme {background: #1ECB3B;}
 .default-theme .codehim-search input[type="text"]{background: transparent; color: #666;}
        .default-theme .dropdown-heading:hover,
-       .default-theme .menu-item li a:hover{ background: #7CBB00;color: #fff;}
+       .default-theme .menu-item li a:hover{ background: #2D9BFC;color: #fff;}
    .default-theme .close-menu,
    .default-theme .codehim-menu-trigger,
    .default-theme .codehim-search-trigger,
    .default-theme .codehim-search > .back-arrow {  color: #fff;}
-.default-theme .codehim-search > .back-arrow {background: #7CBB00;}
+.default-theme .codehim-search > .back-arrow {background: #1ECB3B;}
 .default-theme .search-now{  background: #fff; color: #7CBB00; border-radius: 5px;  box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.2);}
 .default-theme .nav-icon span{background: #fff;height: 2px;}
 .default-theme .tab-container{ border-bottom: 4px solid #ccc;}
@@ -18,31 +18,31 @@
 .default-theme .menu-item{color: #ccc;}
 .default-theme .logo{color: #fff;}
     .default-theme .dropdown-heading,
-    .default-theme .menu-item li a {border-bottom: 1px dotted rgba(0, 0, 0, 0.1); color: #666;}
+    .default-theme .menu-item li a {border-bottom: 1px solid rgba(0, 0, 0, 0.1); color: #666;}
 .default-theme span.dropdown-heading{color: #666;}
 .default-theme .has-sub ul li a{color: #666;}
 .default-theme .codehim-nav{background: #ecf0f1;}
-.default-theme .codehim-search{background: #03A2E7; }
+.default-theme .codehim-search{background: #1ECB3B; }
 .default-theme .show-popup > .close-popup{ color: #fff;}
-.default-theme .show-popup .top{background: rgb(46,54,65);}
+.default-theme .show-popup .top{background: #FC2D2D;}
 .default-theme .show-popup textarea{border: 1px solid #bbb;caret-color: #16a085;color: #666;}
 .default-theme .show-popup input[type="submit"]{background: #03A2E7; color: rgba(255, 255, 255, 0.9);}
 .default-theme .show-popup input[type="submit"]:hover{ background: rgba(0, 0, 0, 0.40);} 
 .default-theme .has-sub ul{ background: #fff;}
-.default-theme .has-sub ul li a:hover{ background: #F65314; color: #fff;}
+.default-theme .has-sub ul li a:hover{ background: #1ECB3B; color: #fff;}
 .default-theme .tab-name {color: #777;}
-.default-theme .tab-name:hover { color: #03A2E7; transition: .3s;}
+.default-theme .tab-name:hover { color: #FC2D2D; transition: .3s;}
       .default-theme .tab-name1-active,
-      .default-theme .tab-name2-active{color: #03A2E7;}
+      .default-theme .tab-name2-active{color: #1ECB3B;}
    .default-theme .tab-name2-active:before,
-   .default-theme .tab-name1-active:before{border-bottom: 4px solid #03A2E7;}
+   .default-theme .tab-name1-active:before{border-bottom: 4px solid #FC2D2D;}
       .default-theme .facebook,
       .default-theme .twitter,
       .default-theme .gplus{background: rgba(0, 0, 0, 0.25); color: #fff;}
 .default-theme .twitter:hover{background: #55ACEE}
 .default-theme .facebook:hover{background: #3B5998}
 .default-theme .gplus:hover{background: #EA4335}
-.show-popup{background: #eee; color: #666;}
+.show-popup{background: #eee; color: #666; text-align:center;}
 .default-theme .search-now:hover{box-shadow: inset 0 2px 6px rgba(255, 255, 255, 0.4);}
 .codehim-card p{ color: #666;}
 .show-popup h4 { color: rgba(255, 255, 255, 0.7); background: #7CBB00;}
