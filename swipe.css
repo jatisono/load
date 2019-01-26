@@ -197,4 +197,4 @@
 .show-popup { width: 540px; height: 400px; box-shadow: 1px 2px 6px rgba(0, 0, 0, .5); top: 50%; left: 50%; margin-left: -270px; margin-top: -270px; border-radius: 4px;}
 .show-popup h4 { text-align: center; padding-left: 0; font-size: 16pt;}
 .show-popup .close-popup{ width: 45px; height: 40px; line-height: 40px; position: absolute; right: 10px; top: 2px; outline: 0; font-size: 14pt; color: rgba(255, 255, 255, 0.5); text-align: right;}
-.show-popup .close-popup:before{ content: "\f00d"; font-family: FontAwesome; font-weight: 300;}}
+.show-popup .close-popup:before{ content: "\f00d"; font-family: FontAwesome; font-weight: 300; color:#fff;}}
