@@ -263,7 +263,7 @@ color: #fff;
   width: 100%;
  padding: 0;
   box-sizing: border-box;
-  z-index: 3;
+  z-index: 999;
   height: 52px;
   will-change: transform;
   transition: background 0.3s, -webkit-transform 0.5s cubic-bezier(0.694, 0.048, 0.335, 1);
