@@ -1,0 +1,2 @@
+# load
+Tempat penyimpanan blogger
