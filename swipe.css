@@ -116,7 +116,7 @@ background: #ecf0f1;
 
 
 .default-theme .codehim-search{
-background: #7CBB00; 
+background: #03A2E7; 
 
 }
 
@@ -139,7 +139,7 @@ color: #666;
 }
 
 .default-theme .show-popup input[type="submit"]{
-   background: #7CBB00; 
+   background: #03A2E7; 
    color: rgba(255, 255, 255, 0.9);
 
 }
@@ -165,19 +165,19 @@ color: #777;
 }
 
 .default-theme .tab-name:hover {
-   color: #7CBB00;
+   color: #03A2E7;
     transition: .3s;
 }
 
 
 .default-theme .tab-name1-active,
 .default-theme .tab-name2-active{
-color: #7CBB00;
+color: #03A2E7;
 
 }
 .default-theme .tab-name2-active:before,
 .default-theme .tab-name1-active:before{
-border-bottom: 4px solid #7CBB00;
+border-bottom: 4px solid #03A2E7;
 
 }
 
