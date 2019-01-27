@@ -2,7 +2,7 @@
 .overlayer{background: 	rgba(0, 0, 0, .35) !important;}
 .default-theme .my-codehim li a:hover{   background: #FC2D2D;   color: #fff;}
 .default-theme .splash{background: #fff;}
-.default-theme {background: #1ECB3B;-webkit-box-shadow: 2px 13px 28px -11px rgba(0,0,0,0.45);-moz-box-shadow: 2px 13px 28px -11px rgba(0,0,0,0.45);box-shadow: 2px 13px 28px -11px rgba(0,0,0,0.45);}
+.default-theme {background: #1ECB3B;-webkit-box-shadow: 0px 2px 13px 0px rgba(50, 50, 50, 0.4);-moz-box-shadow: 0px 2px 13px 0px rgba(50, 50, 50, 0.4);box-shadow: 0px 2px 13px 0px rgba(50, 50, 50, 0.4)}
 .default-theme .codehim-search input[type="text"]{background: transparent; color: #666;}
 .default-theme .dropdown-heading:hover, .default-theme .menu-item li a:hover{ background: #2D9BFC;color: #fff;}
 .default-theme .close-menu, .default-theme .codehim-menu-trigger, .default-theme .codehim-search-trigger, .default-theme .codehim-search > .back-arrow {  color: #fff;}
