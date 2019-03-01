@@ -237,4 +237,3 @@ function swipedetect(el, callback){
         e.preventDefault()
     }, false)
 }
-  
